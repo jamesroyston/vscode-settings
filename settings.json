@@ -1,11 +1,11 @@
 {
-	"editor.fontSize": 16,
+    "editor.fontSize": 16,
     "editor.wordWrap": "on",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.tree.indent": 16,
-	"workbench.colorCustomizations":
-	{
-		"editor.selectionBackground": "#747cf559",
+    "workbench.colorCustomizations": {
+		"editor.selectionBackground": "#ee656c4f",
+		"editor.lineHighlightBackground": "#ee7f844f",
 		"terminal.background": "#0a0e14",
 		"terminal.foreground": "#b3b1ad",
 		"terminal.ansiBlack": "#01060e",
