@@ -1,0 +1,33 @@
+{
+	"editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 16,
+	"workbench.colorCustomizations":
+	{
+		"editor.selectionBackground": "#747cf559",
+		"terminal.background": "#0a0e14",
+		"terminal.foreground": "#b3b1ad",
+		"terminal.ansiBlack": "#01060e",
+		"terminal.ansiRed": "#ea6c73",
+		"terminal.ansiGreen": "#91b362",
+		"terminal.ansiYellow": "#f9af4f",
+		"terminal.ansiBlue": "#53bdfa",
+		"terminal.ansiMagenta": "#fae994",
+		"terminal.ansiCyan": "#90e1c6",
+		"terminal.ansiWhite": "#c7c7c7",
+		"terminal.ansiBrightBlack": "#686868",
+		"terminal.ansiBrightRed": "#f07178",
+		"terminal.ansiBrightGreen": "#c2d94c",
+		"terminal.ansiBrightYellow": "#ffb454",
+		"terminal.ansiBrightBlue": "#59c2ff",
+		"terminal.ansiBrightMagenta": "#ffee99",
+		"terminal.ansiBrightCyan": "#95e6cb",
+		"terminal.ansiBrightWhite": "#ffffff"
+	},
+	"terminal.integrated.fontSize": 16,
+	"php.suggest.basic": false,
+	"php.validate.enable": false,
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Solarized Light"
+}
