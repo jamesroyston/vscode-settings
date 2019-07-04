@@ -29,5 +29,5 @@
     "editor.defaultFormatter": null,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.list.horizontalScrolling": true // UX major key for me at least
+    "workbench.list.horizontalScrolling": true
 }
